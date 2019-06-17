@@ -1,5 +1,4 @@
 //This code is written by Mustafa Hesham Mohamed to find the root of a function using Bisection method.
-//My student code at ISSR is 201800378.
 #include<iostream>
 #include <cmath>
 using namespace std;
