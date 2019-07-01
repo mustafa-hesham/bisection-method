@@ -49,7 +49,7 @@ int main(){
 	if(ite>0){
 		apperror = (totalxr[ite] - totalxr[ite-1])*100/totalxr[ite];
 		if (apperror<0) apperror *= -1;
-		cout<<"The relative error is: "<<apperror<<"%"<<endl;
+		cout<<"The percentage error is: "<<apperror<<"%"<<endl;
 		cout <<"The f(xu) is "<<resultu<<endl;
 		cout <<"The f(xl) is "<<resultl<<endl;	
 		cout <<"The f(xr) is "<<resultr<<endl;
